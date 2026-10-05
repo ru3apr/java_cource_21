@@ -1,5 +1,6 @@
 package com.learn;
 
+// https://chat.deepseek.com/a/chat/s/e301e312-499b-4e32-a74f-bc77e47679fa
 public class EvenNumberCountSolution {
     public
     int findNumbers(int[] nums) {
