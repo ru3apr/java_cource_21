@@ -1,6 +1,7 @@
-package com.learn;
+package com.learn.leetcode;
 
 // https://chat.deepseek.com/a/chat/s/e301e312-499b-4e32-a74f-bc77e47679fa
+// Задача Leetcode 1295
 public class EvenNumberCountSolution {
     public
     int findNumbers(int[] nums) {
